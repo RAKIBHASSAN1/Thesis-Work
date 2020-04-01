@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">Fruit_Calorie</string>
+    <string name="edit1">Enter A Food Name</string>
+    <string name="edit2">Enter A Food Weight</string>
+    <string name="button1">add</string>
+    <string name="button2">sub</string>
+    <string name="tag">Description Will be place here</string>
+
+    <string-array name="fruit_name">
+        <item>Apples</item>
+        <item>Banana</item>
+        <item>Blackberries</item>
+        <item>Blueberries</item>
+        <item>Cherries</item>
+        <item>Grapes</item>
+        <item>Guava</item>
+        <item>Lemon</item>
+        <item>Mango</item>
+        <item>Melon</item>
+        <item>Oranges</item>
+        <item>Watermelon</item>
+
+
+    </string-array>
+    <string-array name="fruit_details">
+
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+
+    </string-array>
+    <string-array name="fruit_details1">
+
+        <item>Calories: 49.05kcal</item>
+        <item>Calories: 95.0kcal</item>
+        <item>Calories: 25.25kcal</item>
+        <item>Calories: 57kcal</item>
+        <item>Calories: 39kcal</item>
+        <item>Calories: 61.5kcal</item>
+        <item>Calories: 68kcal</item>
+        <item>Calories: 18kcal</item>
+        <item>Calories: 57kcal</item>
+        <item>Calories: 34kcal</item>
+        <item>Calories: 37.4kcal</item>
+        <item>Calories: 30kcal</item>
+
+    </string-array>
+    <string-array name="vegetable_name">
+        <item>Aubergine</item>
+        <item>Carrots</item>
+        <item>Cabbage</item>
+        <item>Cauliflower</item>
+        <item>Cucumber</item>
+        <item>Olives</item>
+        <item>Mushrooms</item>
+        <item>Onions</item>
+        <item>Potatoes</item>
+        <item>Pumpkin</item>
+        <item>Radish</item>
+        <item>Tomato</item>
+        <item>Turnip</item>
+
+
+    </string-array>
+    <string-array name="vegetable_details">
+
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+
+    </string-array>
+    <string-array name="vegetable_details1">
+
+        <item>Calories: 15kcal</item>
+        <item>Calories: 43kcal</item>
+        <item>Calories: 27kcal</item>
+        <item>Calories: 28kcal</item>
+        <item>Calories: 10kcal</item>
+        <item>Calories: 130kcal</item>
+        <item>Calories: 14.8kcal</item>
+        <item>Calories: 38.2kcal</item>
+        <item>Calories: 72kcal</item>
+        <item>Calories: 26kcal</item>
+        <item>Calories: 12kcal</item>
+        <item>Calories: 18kcal</item>
+        <item>Calories: 17kcal</item>
+
+    </string-array>
+    <string-array name="meat_name">
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Lamb</item>
+
+
+
+    </string-array>
+    <string-array name="meat_details">
+
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+
+
+    </string-array>
+    <string-array name="meat_details1">
+
+        <item>Calories: 157.0kcal</item>
+        <item>Calories: 136.4kcal</item>
+        <item>Calories: 237.3kcal</item>
+
+
+
+    </string-array>
+    <string-array name="fish_name">
+        <item>Salmon</item>
+        <item>Tuna</item>
+        <item>Whitefish</item>
+
+    </string-array>
+    <string-array name="fish_details">
+
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+        <item>Weight: 100g</item>
+
+
+    </string-array>
+    <string-array name="fish_details1">
+
+        <item>Calories: 206kcal</item>
+        <item>Calories: 187kcal</item>
+        <item>Calories: 172kcal</item>
+
+
+    </string-array>
+
+</resources>

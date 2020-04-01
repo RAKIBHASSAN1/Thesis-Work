@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    tools:context=".Input" >
+
+<EditText
+    android:id="@+id/Edittext1Id"
+    android:layout_width="200dp"
+    android:layout_height="50dp"
+    android:textSize="20sp"
+    android:hint="@string/edit1"
+    android:inputType="numberDecimal"
+
+    android:layout_marginBottom="15dp"
+    android:textCursorDrawable="@null"
+    tools:ignore="Autofill" />
+    <EditText
+        android:id="@+id/Edittext2Id"
+
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:textSize="20sp"
+        android:hint="@string/edit2"
+        android:inputType="numberDecimal"
+        android:textCursorDrawable="@null"
+        tools:ignore="Autofill" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/ButtonId1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="ButtonStyle" />
+    <Button
+        android:id="@+id/ButtonId2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="ButtonStyle" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/textviewshow"
+        android:textSize="50sp"
+
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
